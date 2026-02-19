@@ -6,12 +6,13 @@ import { getFirestore, doc, getDoc, setDoc, updateDoc, collection, addDoc, onSna
 
 // YOUR FIREBASE CONFIGURATION (Replace with your actual keys from Firebase Console)
 const firebaseConfig = {
-  apiKey: "xxxxxxxxxxxxxxx",
-  authDomain: "xxxxxxxxxxxxxxx",
-  projectId: "xxxxxxxxxxxxxxx",
-  storageBucket: "xxxxxxxxxxxxxxx",
-  messagingSenderId: "xxxxxxxxxxxxxxx",
-  appId: "xxxxxxxxxxxxxxx"
+   apiKey: "AIzaSyBfaqlGQkHeH3Fim1r2oz1Gwc6YX9Ghc-k",
+  authDomain: "dash-a64ea.firebaseapp.com",
+  projectId: "dash-a64ea",
+  storageBucket: "dash-a64ea.firebasestorage.app",
+  messagingSenderId: "181904799777",
+  appId: "1:181904799777:web:3314530846808011610b60",
+  measurementId: "G-7MQC3Z8YVS"
 };
 
 // Initialize Firebase
